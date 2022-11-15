@@ -1,4 +1,8 @@
 Añadir nuevos cambios
+<<<<<<< HEAD
 mas cambios
 otros cambios
 archivo nuevo con nuevos cambios
+=======
+realizando cambios
+>>>>>>> cab9c8fd2ef9b681157ae46f848fa300c814cb56

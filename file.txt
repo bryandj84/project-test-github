@@ -1,7 +1,7 @@
 Añadir nuevos cambios
 <<<<<<< HEAD
-mas cambios
-otros cambios
+mas cambios para realizar pruebas en git
+otros cambios 
 archivo nuevo con nuevos cambios
 =======
 realizando cambios
